@@ -52,4 +52,4 @@ Strikethrough uses two tildes.~Scratch this.~
 4. And another item.
   >>* note1
   >>* note2
-  * note3
+  >>* note3
