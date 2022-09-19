@@ -8,9 +8,10 @@
 s="Python"
 print(s)
 ```
+
 ```js
-s="js text"
-print(s)
+var s="js text"
+alter(s)
 ```
 
 |Left|Center|Right|
