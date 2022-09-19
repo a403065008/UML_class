@@ -5,7 +5,11 @@
 - [ ] aaaaaaaaaaa
 - [x] bvbbb
 ```Python
-s="hello"
+s="Python"
+print(s)
+```
+```js
+s="js text"
 print(s)
 ```
 
